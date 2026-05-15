@@ -1,3 +1,5 @@
 version=1.0.0
 LOG_LEVEL=info
 ENABLE_METRICS=true
+JWT_SECRET=abc123
+
